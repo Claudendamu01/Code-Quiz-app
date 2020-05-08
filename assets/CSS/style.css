@@ -1,0 +1,14 @@
+body{
+    background-image: url(../images/extra_clean_paper.png);
+    font-family: 'Varela Round', sans-serif;
+}
+.btn{
+    margin: 5px;
+    justify-content: left;
+}
+.header{
+    color: black;   
+}
+#display-div{
+    margin-top: 25%;
+}
